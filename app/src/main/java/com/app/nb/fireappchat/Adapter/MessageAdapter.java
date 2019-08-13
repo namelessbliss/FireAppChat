@@ -73,7 +73,7 @@ public class MessageAdapter extends BaseAdapter {
             holder.tvMessage.setText(message.getText());
         }
 
-        holder.tvName.setText(message.getName());
+        holder.tvName.setText(message.getName() + ": ");
 
         return convertView;
 
