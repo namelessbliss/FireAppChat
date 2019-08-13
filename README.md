@@ -4,6 +4,7 @@ Aplicativo chat usando FirebaseSDK
 - 2- Envio de mensaje y registro en bd
 - 3- Autenticacion requerida usando el Firebase Authentication
 - 4- Funcion de envio de imagenes, almacenaje en Firebase Storage
+- 5- Envio de notificaciones a traves de Firebase Cloud Messaging
 
 <table>
 	<tr>
@@ -14,5 +15,6 @@ Aplicativo chat usando FirebaseSDK
 	</tr>
 	<tr>
 		<td><img src="https://github.com/namelessbliss/FireAppChat/blob/master/capturas/5.png" ></td>
+		<td><img src="https://github.com/namelessbliss/FireAppChat/blob/master/capturas/6.png" ></td>
 	</tr>
 </table> 
